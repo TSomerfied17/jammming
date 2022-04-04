@@ -1,9 +1,8 @@
 # jammming
-This was my final project for the 'How to build a web app with React' online Codecademy course which I completed during Spring 2020. Below I have cut and paste the original README.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/533c688a-6600-490f-9f06-3ee473e4515a/deploy-status)](https://app.netlify.com/sites/jamming/deploys)
 
-Jamming is a useless React app for creating new playlists with Spotify.
+Jamming is a React app for creating new playlists with Spotify.
 
 ![image](https://user-images.githubusercontent.com/10026538/65839342-303a1d00-e304-11e9-84ec-43e7d8b2365a.png)
 
@@ -12,8 +11,6 @@ Jamming is a useless React app for creating new playlists with Spotify.
 Built for the final project of the [Codecademy Pro Intensive - Build Front-End Web Applications from Scratch](https://bit.ly/2m3tEtc).
 * Code Review - [Overall Score: 16/16](https://github.com/connorads/jamming/issues/1)
 * Credential - [Codecademy Pro Intensive Certification](https://www.credential.net/4wjkoonj)
-
-![image](https://user-images.githubusercontent.com/10026538/66459038-161ede00-ea6c-11e9-814b-ef977d513d1b.png)
 
 ## Features
 
@@ -24,6 +21,8 @@ Built for the final project of the [Codecademy Pro Intensive - Build Front-End W
 * Remove Song from Custom Playlist — users can remove a track from their playlist by selecting a - sign on the right side of the track’s display container.
 * Change Playlist Title — users can change the title of their custom playlist.
 * Save Playlist to Account — users can save their custom playlist by clicking a button called SAVE TO SPOTIFY.
+* 
+![image](https://user-images.githubusercontent.com/10026538/66459038-161ede00-ea6c-11e9-814b-ef977d513d1b.png)
 
 ## Known issues
 
